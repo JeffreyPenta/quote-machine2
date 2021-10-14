@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/JeffreyPenta/quote-machine2.git/static/css/main.866d1072.chunk.css",
-    "main.js": "/JeffreyPenta/quote-machine2.git/static/js/main.8ed77956.chunk.js",
-    "main.js.map": "/JeffreyPenta/quote-machine2.git/static/js/main.8ed77956.chunk.js.map",
-    "runtime-main.js": "/JeffreyPenta/quote-machine2.git/static/js/runtime-main.c7f907c4.js",
-    "runtime-main.js.map": "/JeffreyPenta/quote-machine2.git/static/js/runtime-main.c7f907c4.js.map",
-    "static/js/2.21ec52bf.chunk.js": "/JeffreyPenta/quote-machine2.git/static/js/2.21ec52bf.chunk.js",
-    "static/js/2.21ec52bf.chunk.js.map": "/JeffreyPenta/quote-machine2.git/static/js/2.21ec52bf.chunk.js.map",
-    "static/js/3.5c9e701f.chunk.js": "/JeffreyPenta/quote-machine2.git/static/js/3.5c9e701f.chunk.js",
-    "static/js/3.5c9e701f.chunk.js.map": "/JeffreyPenta/quote-machine2.git/static/js/3.5c9e701f.chunk.js.map",
-    "index.html": "/JeffreyPenta/quote-machine2.git/index.html",
-    "static/css/main.866d1072.chunk.css.map": "/JeffreyPenta/quote-machine2.git/static/css/main.866d1072.chunk.css.map",
-    "static/js/2.21ec52bf.chunk.js.LICENSE.txt": "/JeffreyPenta/quote-machine2.git/static/js/2.21ec52bf.chunk.js.LICENSE.txt"
+    "main.css": "/JeffreyPenta/quote-machine2/static/css/main.866d1072.chunk.css",
+    "main.js": "/JeffreyPenta/quote-machine2/static/js/main.8ed77956.chunk.js",
+    "main.js.map": "/JeffreyPenta/quote-machine2/static/js/main.8ed77956.chunk.js.map",
+    "runtime-main.js": "/JeffreyPenta/quote-machine2/static/js/runtime-main.76aacc64.js",
+    "runtime-main.js.map": "/JeffreyPenta/quote-machine2/static/js/runtime-main.76aacc64.js.map",
+    "static/js/2.21ec52bf.chunk.js": "/JeffreyPenta/quote-machine2/static/js/2.21ec52bf.chunk.js",
+    "static/js/2.21ec52bf.chunk.js.map": "/JeffreyPenta/quote-machine2/static/js/2.21ec52bf.chunk.js.map",
+    "static/js/3.5c9e701f.chunk.js": "/JeffreyPenta/quote-machine2/static/js/3.5c9e701f.chunk.js",
+    "static/js/3.5c9e701f.chunk.js.map": "/JeffreyPenta/quote-machine2/static/js/3.5c9e701f.chunk.js.map",
+    "index.html": "/JeffreyPenta/quote-machine2/index.html",
+    "static/css/main.866d1072.chunk.css.map": "/JeffreyPenta/quote-machine2/static/css/main.866d1072.chunk.css.map",
+    "static/js/2.21ec52bf.chunk.js.LICENSE.txt": "/JeffreyPenta/quote-machine2/static/js/2.21ec52bf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c7f907c4.js",
+    "static/js/runtime-main.76aacc64.js",
     "static/js/2.21ec52bf.chunk.js",
     "static/css/main.866d1072.chunk.css",
     "static/js/main.8ed77956.chunk.js"
